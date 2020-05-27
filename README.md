@@ -1,2 +1,0 @@
-# keksby
-First project
